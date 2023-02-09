@@ -1,3 +1,4 @@
-navbar > ul {
-  align-items: center;
+.navbar {
+  display: flex;
+  flex-flow: column;
 }
